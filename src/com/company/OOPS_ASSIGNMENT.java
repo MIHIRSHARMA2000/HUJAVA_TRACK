@@ -50,7 +50,7 @@ class Area{   // Question 1
 
     }
 }
-public class Main {
+public class OOPS_ASSIGNMENT {
 
     public static void main(String[] args) {
         Area ar = new Area();
