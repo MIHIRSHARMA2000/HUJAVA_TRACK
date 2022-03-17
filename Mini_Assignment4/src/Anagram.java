@@ -20,7 +20,7 @@ public class Anagram {
             }
             else{
                 Integer frequency = mp.get(arr1[i]);
-                mp.put(arr1[i],frequency++);
+                mp.put(arr1[i],frequency+1);
             }
         }
         for(int i=0; i<arr2.length; i++)
